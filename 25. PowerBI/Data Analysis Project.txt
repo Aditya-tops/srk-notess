@@ -1,0 +1,61 @@
+U have got interview call means
+
+	Interviewer already checked your resume 
+
+	Interviewer already satified with your skills, tools, projects 
+
+	Interviewer wants to know, whatever you mentioned are correct or wrong
+----------------------------------------------------------------------------
+
+Data Analyst:
+
+Descriptive Analytics : Describe the data & Inferences the data as per client requirements
+
+Data Analytics Project: 
+
+1. Business Problem Understanding
+
+2. Extract the data from database  
+
+   Data understanding
+
+3. Data Cleaning
+
+4. Analysis
+
+5. Presentation using PowerBI
+
+Ex: 
+
+1. IPL Player Analysis
+
+2. Mutual Fund Analysis
+
+3. HR Analytics
+
+
+
+Select a Batsman
+----------------
+
+1. formulate some questions?
+
+2. write the code
+
+3. inferences
+
+combine all inferences/observations in word document
+
+
+
+
+1. How many people are there in each department?
+2. Gender distribution by department
+3. Age spread of our staff (histogram)
+4. Min / max / average salary in each department
+5. Top earners in each country
+6. Performance Spread (sort by column)
+7. Company growth trend
+8. Employee Filter (by starting letter)
+9. Performance vs. Salary - is there any relationship?
+10. India vs. New Zealand - quick scorecard
